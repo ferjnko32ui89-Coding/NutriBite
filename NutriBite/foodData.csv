@@ -1,0 +1,51 @@
+Name,Calories,Protein,Carbs,Fats,Category
+Apple,52,0.3,14.0,0.2,Fruit/Vegetable
+Banana,96,1.3,23.0,0.3,Fruit/Vegetable
+Chicken Breast,165,31.0,0.0,3.6,Meat and Fish
+Salmon,208,20.0,0.0,13.0,Meat and Fish
+Rice,130,2.7,28.0,0.3,Carbohydrates
+Whole Wheat Bread,247,13.0,41.0,3.5,Carbohydrates
+Milk,42,3.4,5.0,1.0,Dairy
+Cheddar Cheese,402,25.0,1.3,33.0,Dairy
+Butter,717,0.9,0.1,81.0,"Fats, Oils, and Confectionery"
+Dark Chocolate,546,4.9,31.0,32.0,"Fats, Oils, and Confectionery"
+Eggs,155,13.0,1.1,11.0,Protein
+Almonds,575,21.0,21.7,49.0,Nuts and Seeds
+Oats,389,17.0,66.0,7.0,Carbohydrates
+Quinoa,120,4.4,21.0,2.0,Carbohydrates
+Greek Yogurt,59,10.0,3.6,0.4,Dairy
+Broccoli,55,4.2,11.0,0.6,Fruit/Vegetable
+Carrots,41,0.9,10.0,0.2,Fruit/Vegetable
+Tomatoes,18,0.9,3.9,0.2,Fruit/Vegetable
+Potatoes,77,2.0,17.0,0.1,Carbohydrates
+Avocado,160,2.0,9.0,15.0,"Fats, Oils, and Confectionery"
+Beef Steak,271,25.0,0.0,20.0,Meat and Fish
+Pork Chop,242,22.0,0.0,20.0,Meat and Fish
+Shrimp,99,24.0,0.0,1.0,Meat and Fish
+Tuna,132,29.0,0.0,0.6,Meat and Fish
+Tofu,76,8.0,1.9,4.8,Plant-based Protein
+Lentils,116,9.0,20.0,0.3,Plant-based Protein
+Chickpeas,164,8.9,27.0,2.6,Plant-based Protein
+Spinach,23,2.9,3.6,0.4,Fruit/Vegetable
+Kale,49,4.3,4.3,0.9,Fruit/Vegetable
+Mushrooms,22,3.1,3.3,0.3,Fruit/Vegetable
+Blueberries,57,0.7,14.0,0.3,Fruit/Vegetable
+Strawberries,32,0.8,7.7,0.3,Fruit/Vegetable
+Oranges,47,0.9,11.8,0.1,Nuts and Seeds
+Peanuts,567,25.0,16.0,49.0,Nuts and Seeds
+Cashews,553,18.0,30.0,44.0,"Fats, Oils, and Confectionery"
+Olive Oil,884,0.0,0.0,100.0,"Fats, Oils, and Confectionery"
+Coconut Oil,862,0.0,0.0,100.0,Sweeteners
+Honey,304,0.3,82.0,0.0,Sweeteners
+Brown Sugar,387,0.0,98.0,0.0,Desserts
+Ice Cream,207,3.5,24.0,11.0,Fruit/Vegetable
+Cucumber,16,0.7,3.6,0.1,Fruit/Vegetable
+Bell Peppers,20,0.9,4.6,0.2,Fruit/Vegetable
+Zucchini,17,1.2,3.1,0.2,Carbohydrates
+Sweet Potato,86,1.6,20.0,0.1,Fruit/Vegetable
+Green Beans,31,1.8,7.0,0.2,Dairy
+Cottage Cheese,98,11.0,3.4,4.3,Dairy
+Mozzarella,280,22.0,2.8,22.0,Dairy
+Sour Cream,193,8.2,4.6,20.0,Fruit/Vegetable
+Pineapple,50,0.5,13.1,0.1,Fruit/Vegetable
+Peach,39,0.9,9.5,0.1,
