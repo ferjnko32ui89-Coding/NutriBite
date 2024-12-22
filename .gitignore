@@ -1,0 +1,21 @@
+
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore user-specific settings
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# Ignore Visual Studio temporary files
+.vs/
+
+# Ignore compiled DLLs
+*.dll
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+
